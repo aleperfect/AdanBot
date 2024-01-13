@@ -10,40 +10,39 @@ import moment from 'moment-timezone';
 global.botnumber = ""
 
 global.owner = [
-  ['5219992095479', '👑 Mystic - Creador 👑', true],
-  ['50499698072', '💫 Mystic - Collaborator 1 💫', true],
-  ['51940617554', '💫 Mystic - Collaborator 2 💫', true],
-  ['51996089079', '💫 Mystic - Collaborator 3 💫', true],
-  ['5218442286089', '💫 Mystic - Collaborator 4 💫', true],
-  ['50246028932', '💫 Mystic - Collaborator 5 💫', true],
-  ['5212412377467', '💫 Mystic - Collaborator 6 💫', true],
-  ['5215517489568', '💫 Mystic - Rey Endymion 💫', false],
-  ['59895555511', '💫 Mystic - Collaborator 8 💫', true],
-  ['393518398856','💫 Mystic - Tester Fabri115💫', true],
-  ['593968585283'],
-  ['5219993404349'],
-  ['5219991402134'],
-  ['5492266466080'],
-  ['5219996125657'],
-  ['5218442114446'],
-  ['59894808483'],
-  ['593980586516'], 
-  ['595975740803'],  
-  ['5492266613038'],
-  ['50431953376'],
-  ['51906662557'],
-  ['595992611272']
+  ['51992621601', '𝐀𝐥𝐞𝐢𝐳𝐧-𝐌𝐃', true],
+  ['51992621601', '𝐀𝐥𝐞𝐢𝐳𝐧-𝐌𝐃', true],
+  ['51992621601', '𝐀𝐥𝐞𝐢𝐳𝐧-𝐌𝐃', true],
+  ['51992621601', '𝐀𝐥𝐞𝐢𝐳𝐧-𝐌𝐃', true],
+  ['51992621601', '𝐀𝐥𝐞𝐢𝐳𝐧-𝐌𝐃', true],
+  ['51992621601', '𝐀𝐥𝐞𝐢𝐳𝐧-𝐌𝐃', true],
+  ['51992621601', '𝐀𝐥𝐞𝐢𝐳𝐧-𝐌𝐃', true],
+  ['51992621601', '𝐀𝐥𝐞𝐢𝐳𝐧-𝐌𝐃', false],
+  ['51992621601', '𝐀𝐥𝐞𝐢𝐳𝐧-𝐌𝐃', true],
+  ['51992621601','𝐀𝐥𝐞𝐢𝐳𝐧-𝐌𝐃', true],
+  ['51992621601'],
+  ['51992621601'],
+  ['51992621601'],
+  ['51992621601'],
+  ['51992621601'],
+  ['51992621601'],
+  ['51992621601'],
+  ['51992621601'], 
+  ['51992621601'],
+  ['51992621601'],
+  ['51992621601'],
+  ['51992621601']
 ];
 
-global.suittag = ['5219993404349'];
-global.prems = ['51995386439'];
+global.suittag = ['51992621601'];
+global.prems = ['51992621601'];
 
 global.packname = 'Sticker';
-global.author = 'The Mystic - Bot';
-global.wm = 'The Mystic - Bot';
-global.titulowm = 'The Mystic - Bot';
-global.titulowm2 = `The Mystic - Bot`
-global.igfg = 'The Mystic - Bot';
+global.author = '𝐀𝐥𝐞𝐢𝐳𝐧-𝐌𝐃';
+global.wm = '𝐀𝐥𝐞𝐢𝐳𝐧-𝐌𝐃t';
+global.titulowm = '𝐀𝐥𝐞𝐢𝐳𝐧-𝐌𝐃';
+global.titulowm2 = `𝐀𝐥𝐞𝐢𝐳𝐧-𝐌𝐃`
+global.igfg = '𝐀𝐥𝐞𝐢𝐳𝐧-𝐌𝐃';
 global.wait = '*[ ⏳ ] Cargando...*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
@@ -65,8 +64,8 @@ global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
 global.wm2 = `${dia} ${fecha}\nThe Mystic - Bot`;
-global.gt = 'The Mystic - Bot';
-global.mysticbot = 'The Mystic - Bot';
+global.gt = '𝐀𝐥𝐞𝐢𝐳𝐧-𝐌𝐃';
+global.mysticbot = '𝐀𝐥𝐞𝐢𝐳𝐧-𝐌𝐃';
 global.md = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
 global.mysticbot = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
 global.waitt = '*[ ⏳ ] Cargando...*';

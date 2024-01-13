@@ -25,9 +25,9 @@ const handler = async (m, { conn, usedPrefix }) => {
   const wm = 'The Mystic Bot';
   const info = ` _*< INFO - ESTADO />*_
 
- ▢ *Prop.:* Bruno Sobrino
- ▢ *WA:* +5219992095479
- ▢ *PayPal:* paypal.me/TheShadowBrokers133
+ ▢ *Prop.:* Aleizn
+ ▢ *WA:* +51992621691
+ ▢ *PayPal:* paypal.me/aleizn
 
  ▢ *Ping:* ${rtime}
  ▢ *Uptime:* ${uptime}
